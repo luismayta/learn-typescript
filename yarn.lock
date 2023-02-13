@@ -2578,7 +2578,7 @@ eslint-visitor-keys@^3.1.0, eslint-visitor-keys@^3.3.0:
   resolved "https://registry.yarnpkg.com/eslint-visitor-keys/-/eslint-visitor-keys-3.3.0.tgz#f6480fa6b1f30efe2d1968aa8ac745b862469826"
   integrity sha512-mQ+suqKJVyeuwGYHAdjMFqjCyfl8+Ldnxuyp3ldiMBFKkvytrXUZWaiPCEav8qDHKty44bD+qV1IP4T+w+xXRA==
 
-eslint@^8.33.0, eslint@^8.7.0:
+eslint@^8.34.0, eslint@^8.7.0:
   version "8.34.0"
   resolved "https://registry.yarnpkg.com/eslint/-/eslint-8.34.0.tgz#fe0ab0ef478104c1f9ebc5537e303d25a8fb22d6"
   integrity sha512-1Z8iFsucw+7kSqXNZVslXS8Ioa4u2KM7GPwuKtkTFAqZ/cHMcEaR+1+Br0wLlot49cNxIiZk5wp8EAbPcYZxTg==
@@ -6577,7 +6577,7 @@ stylelint-config-standard@^30.0.1:
   dependencies:
     stylelint-config-recommended "^10.0.1"
 
-stylelint@^15.0.0:
+stylelint@^15.1.0:
   version "15.1.0"
   resolved "https://registry.yarnpkg.com/stylelint/-/stylelint-15.1.0.tgz#24d7cbe06250ceca3b276393bfdeaaaba4356195"
   integrity sha512-Tw8OyIiYhxnIHUzgoLlCyWgCUKsPYiP3TDgs7M1VbayS+q5qZly2yxABg+YPe/hFRWiu0cOtptCtpyrn1CrnYw==
