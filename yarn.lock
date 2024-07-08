@@ -1050,7 +1050,7 @@
   resolved "https://registry.yarnpkg.com/@types/minimist/-/minimist-1.2.5.tgz#ec10755e871497bcd83efe927e43ec46e8c0747e"
   integrity sha512-hov8bUuiLiyFPGyFPE1lwWhmzYbirOXQNNo40+y3zow8aFVTeyn3VWL0VFFfdNddA8S4Vf0Tc062rzyNr7Paag==
 
-"@types/mocha@^10.0.6":
+"@types/mocha@^10.0.7":
   version "10.0.7"
   resolved "https://registry.yarnpkg.com/@types/mocha/-/mocha-10.0.7.tgz#4c620090f28ca7f905a94b706f74dc5b57b44f2f"
   integrity sha512-GN8yJ1mNTcFcah/wKEFIJckJx9iJLoMSzWcfRRuxz/Jk+U6KQNnml+etbtxFK8lPjzOw3zp4Ha/kjSst9fsHYw==
@@ -5139,7 +5139,7 @@ mkdirp@^1.0.3:
   resolved "https://registry.yarnpkg.com/mkdirp/-/mkdirp-1.0.4.tgz#3eb5ed62622756d79a5f0e2a221dfebad75c2f7e"
   integrity sha512-vVqVZQyf3WLx2Shd0qJ9xuvqgAyKPLAiqITEtqW0oIUjzo3PePDd6fW9iFz30ef7Ysp/oiWqbhszeGWW2T6Gzw==
 
-mocha@^10.4.0:
+mocha@^10.6.0:
   version "10.6.0"
   resolved "https://registry.yarnpkg.com/mocha/-/mocha-10.6.0.tgz#465fc66c52613088e10018989a3b98d5e11954b9"
   integrity sha512-hxjt4+EEB0SA0ZDygSS015t65lJw/I2yRCS3Ae+SJ5FrbzrXgfYwJr96f0OvIXdj7h4lv/vLCrH3rkiuizFSvw==
